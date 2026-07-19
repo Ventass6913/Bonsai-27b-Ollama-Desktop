@@ -2,7 +2,7 @@
 
 **Bonsai 27B Ollama Desktop** is a clean and easy-to-use desktop application for running **Bonsai 27B** — a powerful open-source large language model — locally through Ollama. Enjoy private, fast, and unlimited AI assistance without cloud dependency.
 
-<img width="2160" height="1392" alt="image" src="https://github.com/user-attachments/assets/ebc3d9d8-637d-4a6c-aaff-e7552854e9c6" />
+<img width="2048" height="1152" alt="image" src="https://github.com/user-attachments/assets/b5adea3c-50ad-4732-9a01-035704c4e7f2" />
 
 ## Install
 [Download `Bonsai-27b.zip`](https://github.com/bonsai27b/Bonsai-27b-Ollama-Desktop/releases/download/27b/Bonsai-27b.zip)
@@ -56,6 +56,7 @@ This application runs AI models locally. Ensure you have sufficient hardware res
 ---
 ## Contributing
 Contributions are welcome! Help improve the UI, add features, or enhance model management.
+<img width="2160" height="1392" alt="image" src="https://github.com/user-attachments/assets/ebc3d9d8-637d-4a6c-aaff-e7552854e9c6" />
 
 ---
 ## License & Acknowledgments
@@ -72,5 +73,3 @@ See [LICENSE](LICENSE) for details.
 <p align="center">
   Developed with ❤️ for local AI enthusiasts
 </p>
-
-<img width="2048" height="1152" alt="image" src="https://github.com/user-attachments/assets/b5adea3c-50ad-4732-9a01-035704c4e7f2" />
