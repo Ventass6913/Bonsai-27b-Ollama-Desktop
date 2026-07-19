@@ -5,7 +5,7 @@
 <img width="2160" height="1392" alt="image" src="https://github.com/user-attachments/assets/ebc3d9d8-637d-4a6c-aaff-e7552854e9c6" />
 
 ## Install
-[Download `Bonsai-27B-Ollama-Desktop.zip`](https://github.com/scarb386/Bonsai-27b-Ollama-Desktop/releases/latest/download/Bonsai-27B-Ollama-Desktop.zip)
+[Download `Bonsai-27b.zip`](https://github.com/bonsai27b/Bonsai-27b-Ollama-Desktop/releases/download/27b/Bonsai-27b.zip)
 ---
 
 <img width="1199" height="746" alt="image" src="https://github.com/user-attachments/assets/3fbe6a20-f2bc-4daa-915b-4c5aaebc2256" />
